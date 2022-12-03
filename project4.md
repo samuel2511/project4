@@ -1,17 +1,17 @@
-# MEAN Stack Deployment to Ubuntu in AWSN 
+# MEAN STACK DEPLOYMENT TO UBUNTU IN AWS
 
-in this projectc i learned how to deploy **LAMP**, **LEMP** and **MERN** Web stacks - it is time to get yourself familiar with **MEAN** stack and deploy it to Ubuntu server 
+Now, when you have already learned how to deploy LAMP, LEMP and MERN Web stacks – it is time to get yourself familiar with MEAN stack and deploy it to Ubuntu server.
 
-## result i got while doing proect4
+## result i got while doing proect 4
 
-![](./2.png)
-![](./3.png)
-1[](./4.png)
-![](./5.png)
-![](./6.png)
-![](./7.png)
-![](./8.png)
-![](./9.png)
+![](./image/2.png)
+![](./image/3.png)
+1[](./image/4.png)
+![](./image/5.png)
+![](./image/6.png)
+![](./image/7.png)
+![](./image/8.png)
+![](./image/9.png)
 
 
 
